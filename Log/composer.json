@@ -1,0 +1,21 @@
+{
+    "name": "ssphp/standard-log",
+    "description": "log standard",
+    "keywords": ["hfjy", "ssphp", "log"],
+    "homepage": "https://github.com/ssphp/standard.git",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qishaobo",
+            "email": "qishaobo@hfjy.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {"ssphp\\Standard\\Log\\": "src/ssphp/Standard/Log"}
+    }
+}
