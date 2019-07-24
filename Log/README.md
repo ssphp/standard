@@ -23,7 +23,7 @@ ssphp/standard-log是一套完全参照<a href="https://github.com/ssgo/standard
 Install the latest version with
 
 ```bash
-$ composer require ssphp/standard
+$ composer require ssphp/standard-log
 ```
 
 ## Log Content Standard
