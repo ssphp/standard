@@ -8,10 +8,10 @@ ssphp/standard-log是一套完全参照<a href="https://github.com/ssgo/standard
 
 ```
 ├── CHANGELOG.md           # CHANGELOG
-├── README.md              # README          
-└── src                
-    ├── ssphp   		  
-    │   ├── Standard       
+├── README.md              # README
+└── src
+    ├── ssphp
+    │   ├── Standard
     │   └── Log            # 日志标准
     └── Tests              # 测试脚本
 
@@ -23,7 +23,7 @@ ssphp/standard-log是一套完全参照<a href="https://github.com/ssgo/standard
 Install the latest version with
 
 ```bash
-$ composer require ssphp/standard-log
+$ composer require ssphp/standard
 ```
 
 ## Log Content Standard
